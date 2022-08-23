@@ -45,7 +45,7 @@ Pap designer!
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   Heute   |     Jonah      |     Papdesigner fertig machen         |     45 min          |
+| 1.A  |  6.09   |     Jonah      |     Den Randum gen zum laufen bringne        |     4h          |
 | ...  |       |           |              |               |
 
 Total: 
@@ -73,7 +73,7 @@ Entschieden wie vile zahlen die randem nummner sein kann ein Counter eingebaut z
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |   23    |   Test falsch       |   Jonah     |
+| 1.1  |   23    |   Test falsch gen hat noch nicht funktioniert      |   Jonah     |
 | ...  |       |          |        |
 
 
