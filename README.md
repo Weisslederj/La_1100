@@ -7,7 +7,7 @@ Weissleder/ Oesch
 | ----- | ------- | ------------------------------------------------------------ |
 |   23.08    | 0.0.1   | Ich habe die Basics von Github gelernt. |
 |       | ...     |    Ich habe ein Randum Generator mit papdesigner hergestellt       |
-|       | 1.0.0   |                                                              |
+|       | 1.0.0   |        Ich habe mit Visula studio einen randum generator gemacht und ein Spiel programiert     |
 
 ## 1 Informieren
 
@@ -46,7 +46,7 @@ Pap designer!
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  6.09   |     Jonah      |     Den Randum gen zum laufen bringne        |     4h          |
-| ...  |       |           |              |               |
+| ...  |       |    Jonah       |     Das Spiel zum laufen bringen         |     2h          |
 
 Total: 
 
@@ -57,13 +57,14 @@ Total:
 ## 3 Entscheiden
 
 Entschieden wie vile zahlen die randem nummner sein kann ein Counter eingebaut zum wissen beim wie vielten mal die zahl herausgefunden worden ist.
+Spiel programmieren mit einem randum gen inbegriff
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   23.08    |    Jonah Oesch       |   30min            |      45 min             |
-| ...  |       |           |               |                   |
+| ...  |    30.08   |    Joanh       |       2h        |    ca.  4h             |
 
 
 
@@ -74,7 +75,7 @@ Entschieden wie vile zahlen die randem nummner sein kann ein Counter eingebaut z
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |   23    |   Test falsch gen hat noch nicht funktioniert      |   Jonah     |
-| ...  |       |          |        |
+| ...  |    30   |    Funktioniert fast 2 Fehlermeldungen      |  Jonah      |
 
 
 
