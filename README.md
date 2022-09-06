@@ -31,7 +31,7 @@ Ich habe einen Random Generator Programmiert. Mann kann eine Zahl eingeben und d
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |   Das Programm startet und mann kan eine zahl generieren. | Enter | Randum Nummber     |
-| 1.2  |   Das Programm kann schon ZAhlen raten           |       |                   |
+| 1.2  |   Das Programm kann schon Zahlen raten und sagen ob es richtig fascl usw ist.        |   Zahl eingeben    |   Richtig Falsch höher tiefer                |
 
 
 
@@ -63,9 +63,8 @@ Wie gross die Range zwischen den Beiden Zahlen (1-100). Wie man
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   23.08    |    Jonah |      45        |       90 min          |
-| 1.B  |    30.08   |    Joanh |             |                |
-| 1.C  |   06.09    |    Jonah |   
-
+| 1.B  |    30.08   |    Jonah |     2h        |    3h            |
+| 1.C  |   06.09    |    Jonah |   30min | 45 min |
 
 ## 5 Kontrollieren
 
