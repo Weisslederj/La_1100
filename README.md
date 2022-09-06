@@ -5,24 +5,24 @@ Weissleder/ Oesch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   23.08    | 0.0.1   | Ich habe die Basics von Github gelernt. |
-|       | ...     |    Ich habe ein Randum Generator mit papdesigner hergestellt       |
-|       | 1.0.0   |        Ich habe mit Visula studio einen randum generator gemacht und ein Spiel programiert     |
-
+|   23.08    | 0.0.1   | Ich habe die Basics von Github gelernt, eine Projektdokumentation erstellt. |
+|     30.08  | 0.0.2   |    Ich habe ein Randum Generator mit papdesigner hergestellt.       |
+|  30.08     | 0.0.3   |        Ich habe mit Visula Studio einen Random Generator gemacht und ein Spiel programiert, wo mann die eine Zahl von 1-100 Erraten kann.   |
+|  30.08     | 0.0.4   | Ich habe ein randum number gen programiert und einen guess counter eingefügt |
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Randum Numbergenerator
+Ich habe einen Random Generator Programmiert. Mann kann eine Zahl eingeben und dann sagt das Programm ob die Zahl grösser oder Kleiner ist, bis man die Zahl herausgefunden hat.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       M / K         |      | Player 1 Pick number 1-99 if it is the right number Player win |
-| 2    |       M         |      | if not counter will go +1 untill he gets the right number |
-| 1    |                 |      |  |
-| ...  |                 |      |                                    |
+| 1    |       M         |      | |
+| 2    |       M         |      | |
+| 3    |       M       |      |  |
+| 4    |                 |      |                                    |
 
 
 
@@ -30,8 +30,8 @@ Randum Numbergenerator
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |   Rendum gen.           |  Space       |   enter tha randum number              |
-| ...  |              |   Number      |     Right/ Wrong              |
+| 1.1  |   Randum gen. |  Eine Zahl: 99| Richtig / Falsch (höher/niedriger)               |
+| 1.2  |              |       |                   |
 
 
 
@@ -45,9 +45,9 @@ Pap designer!
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  6.09   |     Jonah      |     Den Randum gen zum laufen bringne        |     4h          |
-| ...  |       |    Jonah       |     Das Spiel zum laufen bringen         |     2h          |
-
+| 1.A  |  06.09   |   Jonah   |     Einen Randum Generator Programieren, wo dann wenn man etwas eingiebt die zahl ausgegeben wird.       |     45min         |
+| 1.B  |  06.09   |   Jonah   |     Aus dem Randumnumber Generator ein Spiel zu Programieren wo man die Zahl erraten kann, man giebt eine Zahl ahn und das Programm sagt ob es eine grössere Zahl ist, eine kleinere oder die richtige Zahl ist. |    2h           |
+| 1.C  |  06.09   |   Jonah   |     Ein int zu einem string zu Konvertieren. | 30min |
 Total: 
 
 
@@ -56,16 +56,15 @@ Total:
 
 ## 3 Entscheiden
 
-Entschieden wie vile zahlen die randem nummner sein kann ein Counter eingebaut zum wissen beim wie vielten mal die zahl herausgefunden worden ist.
-Spiel programmieren mit einem randum gen inbegriff
+Wie gross die Range zwischen den Beiden Zahlen (1-100). Wie man
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   23.08    |    Jonah Oesch       |   30min            |      45 min             |
-| ...  |    30.08   |    Joanh       |       2h        |    ca.  4h             |
-
+| 1.A  |   23.08    |    Jonah |      45        |       90 min          |
+| 1.B  |    30.08   |    Joanh |             |                |
+| 1.C  |   06.09    |    Jonah |   
 
 
 ## 5 Kontrollieren
