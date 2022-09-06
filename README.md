@@ -5,9 +5,9 @@ Weissleder/ Oesch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   23.08    | 0.0.1   | Ich habe die Basics von Github gelernt, eine Projektdokumentation erstellt. |
-|     30.08  | 0.0.2   |    Ich habe ein Randum Generator mit papdesigner hergestellt.       |
-|  30.08     | 0.0.3   |        Ich habe mit Visula Studio einen Random Generator gemacht und ein Spiel programiert, wo mann die eine Zahl von 1-100 Erraten kann.   |
+|  23.08     | 0.0.1   | Ich habe die Basics von GitHub gelernt, eine Projektdokumentation erstellt. |
+|  30.08     | 0.0.2   | Ich habe ein Randum Generator mit Papdesigner hergestellt.       |
+|  30.08     | 0.0.3   | Ich habe mit Visual Studio einen Random Generator gemacht und ein Spiel programiert, wo man die eine Zahl von 1-100 Erraten kann.   |
 |  30.08     | 0.0.4   | Ich habe ein randum number gen programiert und einen guess counter eingefügt |
 ## 1 Informieren
 
@@ -19,10 +19,10 @@ Ich habe einen Random Generator Programmiert. Mann kann eine Zahl eingeben und d
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       M         |      | |
-| 2    |       M         |      | |
-| 3    |       M       |      |  |
-| 4    |                 |      |                                    |
+| 1    |       M         | Funktionale Aufforderung   | Wenn ich eine Zahl eingebe dann wird ausgegeben ob diese Zahl richtig, höher oder kleiner ist.|
+| 2    |       M         | Funktionale Aufforderung   | Wenn ich keine Zahl eingieb dann wird nochmal gefragt ob man eine Zahl von 1-100 eingeben kann.|
+| 3    |       M         | Funktionale Aufforderung   | Wenn man richtig geraten hat dann kann man nochmal spielen oder dass Programm beenden. |
+| 4    |                |      |                                    |
 
 
 
@@ -30,8 +30,8 @@ Ich habe einen Random Generator Programmiert. Mann kann eine Zahl eingeben und d
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |   Randum gen. |  Eine Zahl: 99| Richtig / Falsch (höher/niedriger)               |
-| 1.2  |              |       |                   |
+| 1.1  |   Das Programm startet und mann kan eine zahl generieren. | Enter | Randum Nummber     |
+| 1.2  |   Das Programm kann schon ZAhlen raten           |       |                   |
 
 
 
