@@ -56,7 +56,7 @@ Total:
 
 ## 3 Entscheiden
 
-Wie gross die Range zwischen den Beiden Zahlen (1-100). Wie man
+Wie gross die Range zwischen den Beiden Zahlen (1-100). Wie man einen string in einen int verwandelt (convertiert).Was für ausgaben kommen wenn die zahl zu tief zu hoch sind oder wenn die zahl erraten wird, counter einfügen.
 
 ## 4 Realisieren
 
@@ -72,8 +72,8 @@ Wie gross die Range zwischen den Beiden Zahlen (1-100). Wie man
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |   23    |   Test falsch gen hat noch nicht funktioniert      |   Jonah     |
-| ...  |    30   |    Funktioniert fast 2 Fehlermeldungen      |  Jonah      |
+| 1.1  |   13.09    |  Die Zahl wird generiert     |   Jonah     |
+| 1.2  |    13.09  |   Programm kann ausgeben höher tiefer und richtig    |  Jonah      |
 
 
 
