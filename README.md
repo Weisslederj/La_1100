@@ -48,6 +48,7 @@ Pap designer!
 | 1.A  |  06.09   |   Jonah   |     Einen Randum Generator Programieren, wo dann wenn man etwas eingiebt die zahl ausgegeben wird.       |     45min         |
 | 1.B  |  06.09   |   Jonah   |     Aus dem Randumnumber Generator ein Spiel zu Programieren wo man die Zahl erraten kann, man giebt eine Zahl ahn und das Programm sagt ob es eine grössere Zahl ist, eine kleinere oder die richtige Zahl ist. |    2h           |
 | 1.C  |  06.09   |   Jonah   |     Ein int zu einem string zu Konvertieren. | 30min |
+| 1.D    |  06.09   | Jonah    |  Einen Counter hinzufügen   |  45min  |
 Total: 
 
 
@@ -63,8 +64,9 @@ Wie gross die Range zwischen den Beiden Zahlen (1-100). Wie man einen string in 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   23.08    |    Jonah |      45        |       90 min          |
-| 1.B  |    30.08   |    Jonah |     2h        |    3h            |
+| 1.B  |    23.08 /30.08   |    Jonah |     2h        |    3h            |
 | 1.C  |   06.09    |    Jonah |   30min | 45 min |
+|  1.D | 06.09    | Jonah    |  45min  | 90 min   |
 
 ## 5 Kontrollieren
 
