@@ -89,4 +89,4 @@ Wie gross die Range zwischen den Beiden Zahlen (1-100). Wie man einen string in 
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Lernbericht]https://github.com/Weisslederj/Lernbericht/blob/main/README.md
