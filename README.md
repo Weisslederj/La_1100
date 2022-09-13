@@ -83,7 +83,7 @@ Wie gross die Range zwischen den Beiden Zahlen (1-100). Wie man einen string in 
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
+| I    |     Artur hat nicht gefunden er hat zahlen über und unter 100 eingegeben und Buchstaben         |   1010,0,z,k      |      zahl von 1-100 eingeben             |                      |
 | ...  |              |         |                   |                      |
 
 
